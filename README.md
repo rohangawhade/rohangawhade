@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-family: 'Heebo', sans-serif; font-size: 25px;">Hey!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Rohan Gawhade.<br> Nice to meet you!</h1>
 
-![](https://media3.giphy.com/media/g9582DNuQppxC/giphy.gif)
+![](giphy.gif)
 
 <p align="center" style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from FR. C. Rodrigues Institute of Technology, Vashi. Interested in <b style="font-size: 30px;">Data Science</b>, and contributing to Open Source Projects. I have knowledge of <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
 
