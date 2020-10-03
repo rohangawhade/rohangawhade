@@ -22,6 +22,7 @@
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohangawhade">
 
 <h3>My stats:</h3>
 
