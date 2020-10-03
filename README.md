@@ -1,10 +1,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap" rel="stylesheet">
 
-<h1 align="center" style="font-family: 'Heebo', sans-serif; font-size: 25px;">Hey!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Rohan Gawhade.<br> Nice to meet you!</h1>
+<h1  style="font-family: 'Heebo', sans-serif; font-size: 25px;">Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> I am Rohan Gawhade.<br> Nice to meet you!</h1>
+
+![Profile views](https://komarev.com/ghpvc/?username=rohangawhade)
 
 ![](giphy.gif)
 
-<p align="center" style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from FR. C. Rodrigues Institute of Technology, Vashi. Interested in <b style="font-size: 30px;">Data Science</b>, and contributing to Open Source Projects. I have knowledge of <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
+<p align="center" style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from FR. C. Rodrigues Institute of Technology, Vashi.</p> <p>Interested in <b style="font-size: 40px;">Data Science</b>, and contributing to Open Source Projects. I have knowledge of <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
 
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
