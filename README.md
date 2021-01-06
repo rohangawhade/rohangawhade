@@ -9,18 +9,20 @@
 <p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>Interested in <b style="font-size: 40px;">Data Science</b>, and contributing to Open Source Projects. I have knowledge of <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
 
 <p>
-   <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> I’m currently working as a Participant in GSSOC'20 Extended<br>
+   <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> I’m currently looking for internships<br>
    <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> I'm learning Natural Language Processing
    
 </p>
 <h2>Tech Stack</h2>
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+   <a><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="47"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
     <a><img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="40"></a>
    <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="60" height="45"/></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohangawhade&layout=compact">
 
