@@ -6,11 +6,11 @@
 
 ![](giphy.gif)
 <h2>Something About Me!</h2>
-<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>Interested in <b style="font-size: 40px;">Data Science</b>, and contributing to Open Source Projects. I have knowledge of <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
+<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>Interested in <b style="font-size: 40px;">Data Science</b>, and contributing to Open Source Projects. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
 
 <p>
    <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> I’m currently looking for internships<br>
-   <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> I'm learning Natural Language Processing
+   <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> I like building end-to-end ML projects.
    
 </p>
 <h2>Tech Stack</h2>
@@ -40,5 +40,6 @@
   <img align="left" alt="Rohan Gawhade's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-[![HackerRank: Rohan Gawhade](https://img.shields.io/badge/HackerRank-Rohan%20Gawhade-brightgreen)](https://www.hackerrank.com/gawhaderohan)
+[![Codechef: Rohan Gawhade](https://img.shields.io/badge/Codechef-Rohan%20Gawhade-brightgreen)](https://www.codechef.com/users/rohangawhade)
+[![HackerRank: Rohan Gawhade](https://img.shields.io/badge/HackerRank-Rohan%20Gawhade-yellow)](https://www.hackerrank.com/gawhaderohan)
 [![HackerEarth: Rohan Gawhade](https://img.shields.io/badge/HackerEarth-Rohan%20Gawhade-blue)](https://www.hackerearth.com/@rohan1959)
