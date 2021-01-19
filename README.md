@@ -23,6 +23,7 @@
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="60" height="45"/></a>
+    <a><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40" height="45"/></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohangawhade&layout=compact">
 
