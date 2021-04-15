@@ -6,7 +6,7 @@
 
 ![](giphy.gif)
 <h2>Something About Me!</h2>
-<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b>, and contributing to Open Source Projects. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
+<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>I am the President of CSI-FCRIT Chapter.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b>, and contributing to Open Source Projects. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
 
 <p>
    <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> I’m currently working as a Full Stack Developer Intern @RupeeFunda<br>
