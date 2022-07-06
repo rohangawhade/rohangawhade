@@ -6,11 +6,11 @@
 
 ![](giphy.gif)
 <h2>Something About Me!</h2>
-<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an undergraduate pursuing my B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>I am the President of CSI-FCRIT Chapter.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b>, and contributing to Open Source Projects. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Natural Language Processing</b></p>
+<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an Engineer with B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>The President of CSI-FCRIT Chapter 2020-2021.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b> and <b>Natural Language Processing</b>. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Full Stack development</b></p>
 
 <p>
-   <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> I’m currently working as a Full Stack Developer Intern @RupeeFunda<br>
-   <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> I like building end-to-end ML projects.
+   <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> Software Trainee @Ingenium Apr 21 - May 21<br>
+   <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> Full Stack Development Intern @Rupee Jan 21 - Apr 21
    
 </p>
 <h2>Tech Stack</h2>
@@ -43,4 +43,4 @@
 
 [![Codechef: Rohan Gawhade](https://img.shields.io/badge/Codechef-Rohan%20Gawhade-brightgreen)](https://www.codechef.com/users/rohangawhade)
 [![HackerRank: Rohan Gawhade](https://img.shields.io/badge/HackerRank-Rohan%20Gawhade-yellow)](https://www.hackerrank.com/gawhaderohan)
-[![HackerEarth: Rohan Gawhade](https://img.shields.io/badge/HackerEarth-Rohan%20Gawhade-blue)](https://www.hackerearth.com/@rohan1959)
+[![HackerEarth: Rohan Gawhade](https://img.shields.io/badge/leetcode-leetcode-green)](https://leetcode.com/RohanGawhade/)
