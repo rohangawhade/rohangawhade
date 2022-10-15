@@ -6,9 +6,10 @@
 
 ![](giphy.gif)
 <h2>Something About Me!</h2>
-<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am an Engineer with B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>The President of CSI-FCRIT Chapter 2020-2021.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b> and <b>Natural Language Processing</b>. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Full Stack development</b></p>
+<p style="font-family: 'Heebo', sans-serif; font-size: 30px;">I am a <strong>Software Engineer @Paychex Bangalore</strong> with B.E. in Information Technology from Fr. C. Rodrigues Institute of Technology, Vashi.</p> <p>The President of CSI-FCRIT Chapter 2020-2021.</p> <p>I'm Interested in <b style="font-size: 40px;">Data Science</b>, <b style="font-size: 40px;">Web development</b> and <b>Natural Language Processing</b>. I have proficiency in <b style="font-size: 30px;">Machine Learning, Deep Learning and Full Stack development</b></p>
 
 <p>
+   <img src="https://img.icons8.com/fluency/48/000000/permanent-job.png" width="30" height="30"/> Software Engineer @Paychex Aug 21 - Present <br>
    <img src="https://img.icons8.com/dusk/64/000000/working-with-a-laptop.png" width="25" height="25"/> Software Trainee @Ingenium Apr 21 - May 21<br>
    <img src="https://img.icons8.com/color/48/000000/language-skill.png" width="25" height="25"/> Full Stack Development Intern @Rupee Jan 21 - Apr 21
    
